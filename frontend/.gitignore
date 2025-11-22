@@ -42,3 +42,9 @@ next-env.d.ts
 
 # prisma
 src/generated
+
+# openapi
+generated
+
+# logs
+*.log
